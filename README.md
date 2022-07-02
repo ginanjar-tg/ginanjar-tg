@@ -24,5 +24,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ginanjar-tg&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-![snake svg](https://github.com/ginanjar-tg/ginanjar-tg/blob/output/github-contribution-grid-snake.svg)
