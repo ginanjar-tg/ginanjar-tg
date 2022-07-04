@@ -1,11 +1,11 @@
-<h1 align="center">I'm Ginanjar Tubagus Gumilar 👋</h1>
+<h1 align="center">I'm Ginanjar Tubagus Gumilar</h1>
 <h3 align="center">Junior Web Developer</h3>
 
 <p align="center">🌱 I’m currently learning <strong>NextJS</strong></p>
 
-<p align="center">✔️ My goal is to become a <strong>Fullstack Web Developer</strong></p>
+<p align="center">✔️ My goal is to become a <strong>Full Stack Web Developer</strong></p>
 
-<p align="center">📫 How to reach me <a href="mailto:ginanjar0822@gmail.com"><strong>ginanjar0822@gmail.com</strong></a></p>
+<p align="center">📫 Keep in touch with me at <a href="mailto:ginanjar0822@gmail.com"><strong>ginanjar0822@gmail.com</strong></a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
