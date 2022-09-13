@@ -1,5 +1,5 @@
 <h1 align="center">I'm Ginanjar Tubagus Gumilar</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">🌱 I’m currently learning <strong>Laravel</strong></p>
 
