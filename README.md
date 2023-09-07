@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ginanjar Tubagus Gumilar</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="center">🌱 I’m currently learning <strong>Laravel</strong></p>
+<p align="center">🌱 I’m currently improving my DevOps skills</p>
 
 <p align="center">✔️ My goal is to become a <strong>Full Stack Web Developer</strong></p>
 
