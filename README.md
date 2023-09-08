@@ -7,6 +7,8 @@
 
 <p align="center">📫 Keep in touch with me at <a href="mailto:ginanjar0822@gmail.com"><strong>ginanjar0822@gmail.com</strong></a></p>
 
+<p align="center">🌐 My Portfolio : https://ginanjartg.site</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ginanjartg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ginanjartg" height="30" width="40" /></a>
