@@ -1,34 +1,28 @@
-<h1 align="center">Hello, I'm Ginanjar Tubagus Gumilar! 👋</h1>
-<h3 align="center">A passionate Web Developer from Indonesia</h3>
+# Hello, I'm Ginanjar Tubagus Gumilar! 👋
 
-<p align="center">I'm currently working towards becoming a <strong>Full Stack Web Developer</strong>. I love exploring new tech stack and building cool stuffs. Let's code for a better world! 🌏</p>
+A passionate Web Developer from Indonesia
 
-<h3 align="center">📫 How to reach me:</h3>
+I'm currently working towards becoming a **Full Stack Web Developer**. I love exploring new tech stack and building cool stuffs. Let's code for a better world! 🌏
 
-<p align="center">
-<a href="mailto:ginanjar0822@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/></a>
-<a href="https://ginanjartg.site"><img align="center" src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/ginanjar-tubagus-gumilar-a4638b1b6"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://medium.com/@ginanjartg"><img align="center" src="https://img.icons8.com/fluent/48/000000/medium-logo.png" alt="Medium"/></a>
-</p>
+## 📫 How to reach me:
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-    <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" alt="codeigniter" width="40" height="40"/> </a>
-</p>
+[![Email](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:ginanjar0822@gmail.com)
+[![Portfolio](https://img.icons8.com/fluent/48/000000/domain.png)](https://ginanjartg.site)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://linkedin.com/in/ginanjar-tubagus-gumilar-a4638b1b6)
+[![Medium](https://img.icons8.com/fluent/48/000000/medium-logo.png)](https://medium.com/@ginanjartg)
 
-<h3 align="center">⚙️ GitHub Analytics</h3>
+## Languages and Tools:
 
-<p align="center">
-<a href="https://github.com/ginanjar-tg">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ginanjar-tg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ginanjar-tg&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-EF4223?logo=codeigniter)
+
+## ⚙️ GitHub Analytics
+
+![Ginanjar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginanjar-tg&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginanjar-tg&layout=compact&theme=algolia)
