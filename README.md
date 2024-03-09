@@ -4,7 +4,7 @@ Full Stack Web Developer from Indonesia. I love exploring new tech and building 
 
 ## 🚀 Goals:
 
-- Master cloud computing and DevOps.
+- Explore and implement my creative tech ideas.
 - Contribute to impactful open source projects.
 - Build a tech community in Indonesia.
 
