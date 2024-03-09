@@ -1,11 +1,11 @@
 # Hi, I'm Ginanjar Tubagus Gumilar! 👋
 
-Full Stack Web Developer from Indonesia. I love exploring new tech and building cool stuff. 🌏
+I am a full stack web developer from Indonesia. I love exploring new tech and building cool stuff. 😍
 
 ## 🚀 Goals:
 
-- Explore and implement my creative tech ideas.
-- Contribute to impactful open source projects.
+- Capable to follow the new tech trends,
+- Contribute to impactful projects, and
 - Build a tech community in Indonesia.
 
 ## 📫 Reach me:
