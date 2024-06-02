@@ -24,7 +24,7 @@ I am a full stack web developer from Indonesia. I love exploring new tech and bu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-EF4223?logo=codeigniter)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel)
 
 ## ⚙️ GitHub Analytics
 
