@@ -1,10 +1,10 @@
 # Hi, I'm Ginanjar Tubagus Gumilar! 👋
 
-I am a full stack web developer from Indonesia. I love exploring new tech and building cool stuff. 😍
+I work on front-end and back-end development and manage deployments as well. I often laugh when updating my bio, considering whether to label myself as a full stack developer, a DevOps person, or maybe even Superman in disguise.
 
 ## 🚀 Goals:
 
-Capable to follow the new tech trends, and contribute to impactful projects
+Capable to follow the new tech trends, and contribute to impactful projects.
 
 ## 📫 Reach me:
 
